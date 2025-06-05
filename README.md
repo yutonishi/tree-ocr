@@ -17,7 +17,7 @@ source tree-ocr_env/bin/activate
 pip install 必要はものたち
 
 # 実行
-python3 request.py
+python3 request.py 引数でファイル名を指定
 ```
 
 ## 実行結果
